@@ -1,1 +1,0 @@
-New feature for GIT conflict in branch 2
